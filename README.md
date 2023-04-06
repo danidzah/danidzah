@@ -1,4 +1,4 @@
-<h1 align="center"> ## Olá, eu sou a Daniela 😊</h1>
+<h1 align="center"> Olá, eu sou a Daniela 😊</h1>
 
 - 👩‍💻 Desenvolvedora Java Full-Stack
 - 🌱 Aprendendo Python
