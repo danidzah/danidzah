@@ -2,8 +2,6 @@
 
 - 👩‍💻 Desenvolvedora Java Full-Stack
 - 🌱 Aprendendo Python
-- 🖥️ Linkedin: Daniela Oliveira
-- 📫 Entre em contato comigo: danielaoliveirah01@gmail.com
 - 👧 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
